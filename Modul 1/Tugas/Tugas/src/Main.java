@@ -30,7 +30,7 @@ public class Main {
         String password = scanner.nextLine();
 
 
-        if (username.equals("Admin010") && password.equals("Password010")) {
+        if (username.equals("Admin373") && password.equals("Password373")) {
             System.out.println("Admin login successful!");
         } else {
             System.out.println("Login failed! Wrong username or password.");
@@ -45,7 +45,7 @@ public class Main {
         String studentID = scanner.nextLine();
 
 
-        if (name.equals("Ken Aryo Bimantoro") && studentID.equals("202310370311006")) {
+        if (name.equals("Berliano Putra") && studentID.equals("202410370110373")) {
             System.out.println("Student Login Successful!");
             System.out.println("Name: " + name);
             System.out.println("Student ID: " + studentID);
